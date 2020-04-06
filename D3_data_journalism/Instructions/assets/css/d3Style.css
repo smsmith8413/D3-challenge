@@ -28,9 +28,10 @@
   font-family: sans-serif;
   fill: #fff;
   text-anchor: middle;
+  font-size: 12px;
 }
 
-.stateCircle {
+.circlesGroup {
   fill: #89bdd3;
   stroke: #e3e3e3;
 }
